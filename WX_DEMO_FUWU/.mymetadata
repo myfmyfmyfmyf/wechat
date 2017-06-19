@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WX_DEMO_FUWU"
+  id="myeclipse.1489848401181"
+  context-root="/WX_DEMO"
+  j2ee-spec="5.0"
+  archive="WX_DEMO_FUWU.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
